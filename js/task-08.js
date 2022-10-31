@@ -14,5 +14,5 @@ function onFormSubmit(event) {
 
   console.log(formElements);
 
-  event.currentTarget.reset;
+  event.currentTarget.reset();
 }
